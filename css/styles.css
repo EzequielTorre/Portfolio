@@ -438,6 +438,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-image {
+    margin-top:3rem;
     background-color: var(--clr-details);
     background-image: url("../img/noise.png");
     border-radius: 1rem;
