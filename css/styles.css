@@ -440,7 +440,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-image {
+<<<<<<< HEAD
     margin-top: 3rem;
+=======
+    margin-top:3rem;
+>>>>>>> 1cffd394c5b71e069efdac8749d89793d7459474
     background-color: var(--clr-details);
     background-image: url("../img/noise.png");
     border-radius: 1rem;
