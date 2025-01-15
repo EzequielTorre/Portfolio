@@ -306,7 +306,7 @@ h1, h2, h3, h4, h5, h6 {
     border: 0;
     background-color: transparent;
     color: var(--clr-text);
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     display: flex;
     align-items: center;
     cursor: pointer;
@@ -438,6 +438,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-image {
+    margin-top: 3rem;
     background-color: var(--clr-details);
     background-image: url("../img/noise.png");
     border-radius: 1rem;
