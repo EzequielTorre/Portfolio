@@ -76,7 +76,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .paragraph {
     margin-bottom: 1em;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
+    text-align: justify;
 }
 
 .paragraph.mb-025 {
@@ -110,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .paragraph a i {
-    font-size: .75em;
+    font-size: .80em;
 }
 
 .paragraph a[href^="http"]::after {
@@ -363,6 +364,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-main {
+    margin-top: 2rem;
     display: flex;
     flex-direction: column;
 }
@@ -442,12 +444,12 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--clr-details);
     background-image: url("../img/noise.png");
     border-radius: 1rem;
-    transform: scale(.75) translateY(-1rem);
+    transform: scale(.80) translateY(-1rem);
     width: 100%;
 }
 
 .hero-image img {
-    border-radius: 1rem;
+    border-radius: 5px;
     transform: scale(1.2);
     max-width: 100%;
 }
