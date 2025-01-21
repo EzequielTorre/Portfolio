@@ -1,0 +1,37 @@
+
+/*----REEDME-----*/
+
+<h1>Bienvenidos a mi Portfolio:</h1>
+
+## Descripción:
+
+Este portfolio ha sido diseñado con fines educativos y tiene como objetivo principal presentar mis aptitudes
+y conocimientos en el ámbito laboral y el desarrollo web. 
+A través de este sitio, busco mostrar mis proyectos, habilidades y el crecimiento que he experimentado en 
+mi carrera profesional.
+
+## Funcionalidad:
+
+La página está estructurada para ofrecer una experiencia clara y accesible, permitiendo a los visitantes explorar 
+mis trabajos y entender mejor mis capacidades. Algunas de las funcionalidades que encontrarás incluyen:
+
+- **E-commerce interactivo**: Una selección de mi trabajo, con descripcion detallada y enlace.
+- **Habilidades**: HTML - CSS - JS - FETCH - BOOTSTRAP - PYTHON.
+- **Biografía**: Información sobre mi trayectoria profesional y educativa.
+- **Contacto**: Formas de conectarse conmigo para colaboraciones o consultas.
+
+## Objetivos:
+
+Mi intención es no solo mostrar mis logros, sino también contribuir al aprendizaje de otros. 
+Espero que este portfolio sirva como un recurso inspirador y educativo para aquellos que buscan 
+desarrollarse en programación web.
+
+## Agradecimientos:
+
+Agradezco a todos los que han sido parte de mi viaje profesional y educativo. 
+Estoy abierto a recibir comentarios y sugerencias para mejorar este espacio.
+
+---
+
+Gracias por visitar mi portfolio. 
+Espero que encuentres la información útil y que te inspire en tu propio camino.

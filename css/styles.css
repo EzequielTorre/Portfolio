@@ -14,13 +14,13 @@
     --clr-text: #1c1c1c;
     --clr-gray: #bababa;
     --clr-gray-alt: #e0e0e0;
-    --clr-details: #a32562;
+    --clr-details: #ba4881;
 }
 
-/* VARIABLES DARK */
+/* VARIABLES OSCURAS */
 [data-theme="dark"] {
     --clr-bg: #1c1c1c;
-    --clr-bg-90: #1c1c1ce6;
+    --clr-bg-90: #1c1c1ce7;
     --clr-text: #ececec;
     --clr-gray: #606060;
     --clr-gray-alt: #2d2d2d;
